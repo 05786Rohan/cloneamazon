@@ -1,0 +1,68 @@
+*
+{
+
+}
+.main
+{
+    border: 10px solid black;
+  width: 900px;
+  height: auto;
+  margin: auto;
+  position: relative;
+  top: 100px;
+  bottom: 100px;
+ 
+
+}
+h1 {
+  text-align: center;
+  margin: 0px;
+  padding: 20px;
+  background-color: gainsboro;
+  border: 2px solid black;
+  border-bottom: 8px solid black;
+}
+article p {
+  line-height: 10px;
+}
+.xyz {
+  text-transform: capitalize;
+  font-size: 25px;
+}
+a {
+
+
+  text-transform: uppercase;
+  font-weight: 0.85rem;
+  font-size: 15px;
+  color: black;
+}
+.sss {
+  line-height: 40px;
+  position: relative;
+  left: -1.5%;
+  top: 0%;
+  font-size: 25px;
+}
+h3 {
+  font-size: 20px;
+}
+button {
+  width: 900px;
+  height: 50px;
+  font-size: 30px;
+  color: black;
+
+}
+button:hover {
+  border: 2px solid black;
+}
+.c1img
+{
+    border: 3px solid black;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    margin-top: 5px;
+}
